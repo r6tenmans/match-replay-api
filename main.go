@@ -8,7 +8,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/redraskal/r6-dissect/dissect"
+	"github.com/r6tenmans/r6-dissect/dissect"
 )
 
 type RoundFile struct {
